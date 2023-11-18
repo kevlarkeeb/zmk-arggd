@@ -13,7 +13,7 @@
 #include "../../../../zmk-nodefree-config/helper.h"
 #include "../../../../zmk-nodefree-config/keypos_def/keypos_36keys.h"
 #include "../../../../zmk-nodefree-config/international_chars/french.dtsi"
- 
+  
 #define BASE       0
 #define NAV        1
 #define MOUSE      2
